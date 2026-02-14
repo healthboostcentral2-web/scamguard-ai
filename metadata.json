@@ -1,0 +1,5 @@
+{
+  "name": "ScamGuard AI",
+  "description": "An AI-powered scam detection Progressive Web App (PWA) tailored for Indian users to identify fraudulent messages, links, and phone numbers.",
+  "requestFramePermissions": []
+}
